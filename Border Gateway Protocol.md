@@ -23,3 +23,11 @@
 ![image](https://github.com/user-attachments/assets/08a5778a-5436-43fa-93c4-f83e3c783152)
 
 - Applies within the entire autonomous system (AS)
+
+![image](https://github.com/user-attachments/assets/980f8849-f61e-44d7-bab0-17c09fd65528)
+
+![image](https://github.com/user-attachments/assets/4140775c-f960-4337-b3cb-0a996c4bd478)
+
+![image](https://github.com/user-attachments/assets/9b200279-ad2d-4fe6-a43e-ce703d40a3a1)
+
+- IGP - Internal Gateway Protocol
