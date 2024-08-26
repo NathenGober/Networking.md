@@ -31,3 +31,33 @@
 ![image](https://github.com/user-attachments/assets/9b200279-ad2d-4fe6-a43e-ce703d40a3a1)
 
 - IGP - Internal Gateway Protocol
+
+![image](https://github.com/user-attachments/assets/ceaab025-1400-483f-84f6-56936462dafe)
+
+- Accept MED or zero out MED because it is redistributed to IGP
+
+![image](https://github.com/user-attachments/assets/2c2d2654-da4c-4f48-8dd0-7bb9d06444c8)
+
+- Help to avoid possible loops
+
+![image](https://github.com/user-attachments/assets/40bd337b-4aa1-48de-a294-5bcbd325965f)
+
+![image](https://github.com/user-attachments/assets/e5430100-0516-46ef-9eb8-bb2752cf647c)
+
+![image](https://github.com/user-attachments/assets/2e3e160f-0e41-4dc1-81dc-e7bf84bf8215)
+
+![image](https://github.com/user-attachments/assets/4e06f574-2f49-44b9-bda8-c696fc135832)
+
+![image](https://github.com/user-attachments/assets/4dec5213-e807-4be2-862e-e9f1711c15e1)
+
+- Origin - IGP, EGP, or incomplete
+- AS-Path - mandatory for loop avoidance
+- Next-Hop - have to know where to send packets
+
+Discretionary - are identified by all routers and Can be included
+- Local Preference - 
+- Atomic Aggregate - way to alert over BGP speakers that a route is summarized and a more specific path may be available
+
+
+
+
